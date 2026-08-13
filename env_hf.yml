@@ -1,0 +1,17 @@
+name: gemma4
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - torchaudio
+  - python-dotenv
+  - pip:
+      - transformers>=4.48.0
+      - accelerate>=1.0.0
+      - huggingface_hub
+      - pillow
+      - soundfile
