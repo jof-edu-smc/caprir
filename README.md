@@ -1,4 +1,11 @@
-# IR Semantic Dataset Workflow
+# CapRIR Dataaset Workflow
+
+## Web locations of Supporting Material
+
+The production distribution of CapRIR can be found on Zenodo: [CapRIR](https://zenodo.org/records/21877551)
+The supporting code is located in this [GitHub](https://github.com/jof-edu-smc/caprir) 
+
+## Summary 
 
 This repository contains the scripts used to build the dataset, split it, train captioning models, and evaluate them. The recommended workflow is:
 
@@ -222,3 +229,11 @@ Common files produced by the workflow include:
 - `*_scores.json`
 
 These outputs are used by the training and evaluation scripts in the order described above.
+
+## Referenced open access databases 
+You can download the full datasets referenced by CapRIR separately on their hosted webpages. 
+
+OpenAIR: https://www.openair.hosted.york.ac.uk/
+MIT Acoustical Reverberation Scene Statistics Survey: https://mcdermottlab.mit.edu/Reverb/IR_Survey.html 
+
+
