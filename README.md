@@ -3,7 +3,8 @@
 ## Web locations of Supporting Material
 
 The production distribution of CapRIR can be found on Zenodo: [CapRIR](https://zenodo.org/records/21877551)
-The supporting code is located in this [GitHub](https://github.com/jof-edu-smc/caprir) 
+The supporting code is located in this [Dataset GitHub](https://github.com/jof-edu-smc/caprir) 
+The associated listening study can be found here: [Listening Study GitHub](https://github.com/jof-edu-smc/captions-web-app)
 
 ## Summary 
 
